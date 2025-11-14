@@ -8,7 +8,7 @@
   - [冒险游戏](#adventure-games-冒险游戏)
   - [商业与大亨类游戏](#business-and-tycoon-games-商业大亨游戏)
   - [城市建造游戏](#city-building-games-城市建造游戏)
-  - [第一人称游戏](#first-person-games-第一人称)
+  - [第一人称游戏](#first-person-games-第一人称游戏)
   - [平台跳跃类游戏](#platformers-平台游戏)
   - [益智游戏](#puzzle-games-益智游戏)
   - [赛车游戏](#racing-games-赛车游戏)
@@ -57,7 +57,7 @@
 | **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** | 开源城市模拟器《Micropolis》的手工 Javascript 移植版。 | 浏览器 (HTML5 Canvas) | JavaScript |
 | **[Unknown Horizons](https://unknown-horizons.org)** | 强调经济和城市建造的 2D 实时战略模拟游戏。 | **FIFE Engine** | Python |
 
-## First-Person games 第一人称
+## First-Person games 第一人称游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -192,7 +192,7 @@
 | :--- | :--- | :--- | :--- |
 | **Izowave** | 你的任务是在选定的星球上尽可能多地生存波次的塔防游戏。 | **Izowave Engine** | Rust |
 
-## Turn-Based strategies 回合制战略
+## Turn-Based strategies 回合制战略游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
