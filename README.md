@@ -4,7 +4,7 @@
 
 ## Table of contents (目录)
 
-  - [动作游戏](#action-games)
+  - [动作游戏](#Action-games-动作游戏)
   - [冒险游戏](#adventure-games)
   - [商业与大亨类游戏](#business-and-tycoon-games)
   - [城市建造游戏](#city-building-games)
@@ -23,7 +23,7 @@
   - [回合制策略游戏](#turn-based-strategies)
   - [其他列表](#other-lists)
 
-## Action games (动作游戏)
+## Action games 动作游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
