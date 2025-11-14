@@ -5,23 +5,23 @@
 ## Table of contents (目录)
 
   - [动作游戏](#Action-games-动作游戏)
-  - [冒险游戏](#adventure-games)
-  - [商业与大亨类游戏](#business-and-tycoon-games)
-  - [城市建造游戏](#city-building-games)
-  - [第一人称游戏](#first-person-games)
-  - [平台跳跃类游戏](#platformers)
-  - [益智游戏](#puzzle-games)
-  - [赛车游戏](#racing-games)
-  - [即时战略游戏](#real-time-strategies)
-  - [Roguelike（类 Rogue）游戏](#roguelikes)
-  - [角色扮演游戏](#role-playing-games)
-  - [沙盒游戏](#sandbox-games)
-  - [射击类游戏（Shoot 'em up）](#shoot-em-up-games)
-  - [体育游戏](#sport-games)
-  - [第三人称游戏](#third-person-games)
-  - [塔防游戏](#tower-defense-games)
-  - [回合制策略游戏](#turn-based-strategies)
-  - [其他列表](#other-lists)
+  - [冒险游戏](#adventure-games-冒险游戏)
+  - [商业与大亨类游戏](#business-and-tycoon-games-商业大亨游戏)
+  - [城市建造游戏](#city-building-games-城市建造游戏)
+  - [第一人称游戏](#first-person-games-第一人称)
+  - [平台跳跃类游戏](#platformers-平台游戏)
+  - [益智游戏](#puzzle-games-益智游戏)
+  - [赛车游戏](#racing-games-赛车游戏)
+  - [即时战略游戏](#real-time-strategies-即时战略游戏)
+  - [Roguelike游戏](#Roguelike-游戏)
+  - [角色扮演游戏](#role-playing-games-角色扮演游戏)
+  - [沙盒游戏](#sandbox-games-沙盒游戏)
+  - [射击类游戏（Shoot 'em up）](#shoot-em-up-games-射击类游戏)
+  - [体育游戏](#sport-games-体育游戏)
+  - [第三人称游戏](#third-person-games-第三人称游戏)
+  - [塔防游戏](#tower-defense-games-塔防游戏)
+  - [回合制策略游戏](#turn-based-strategies-回合制策略游戏)
+  - [其他列表](#other-lists-其他列表)
 
 ## Action games 动作游戏
 
@@ -29,7 +29,7 @@
 | :--- | :--- | :--- | :--- |
 | **[Hypersomnia](https://hypersomnia.xyz)** | 具有极端动态和像素怀旧风格的竞技俯视射击游戏。 | LÖVE / 自定义引擎 | Lua |
 
-## Adventure games (冒险游戏)
+## Adventure games 冒险游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -38,14 +38,14 @@
 | **The Legend of Zelda: Twilight Princess** | 《黄昏公主》的逆向工程项目，生成可读和可修改的源代码。 | 逆向工程 | C |
 | **Zelda 3** | 《塞尔达传说：众神的三角力量》的逆向工程克隆。 | 逆向工程 | C |
 
-## Business and Tycoon games (商业与大亨游戏)
+## Business and Tycoon games 商业大亨游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **[OpenRCT2](https://openrct2.org)** | 《过山车大亨 2》的开源重制版。 | SDL | C++ |
 | **[OpenTTD](https://www.openttd.org)** | 基于《运输大亨豪华版》的开源模拟游戏。 | SDL, 自定义引擎 | C++ |
 
-## City-Building games (城市建造游戏)
+## City-Building games 城市建造游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 | **[micropolisJS](http://www.graememcc.co.uk/micropolisJS)** | 开源城市模拟器《Micropolis》的手工 Javascript 移植版。 | 浏览器 (HTML5 Canvas) | JavaScript |
 | **[Unknown Horizons](https://unknown-horizons.org)** | 强调经济和城市建造的 2D 实时战略模拟游戏。 | **FIFE Engine** | Python |
 
-## First-Person games (第一人称游戏)
+## First-Person games 第一人称
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -75,7 +75,7 @@
 | **Quake III Arena** | 经典 ID Software 的 Quake III Arena 源码。 | id Tech 3 | C |
 | **Wolfenstein 3D** | 经典 ID Software 的 Wolfenstein 3D 源码。 | id Tech 1 | C |
 
-## Platformers (平台游戏)
+## Platformers 平台游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -88,20 +88,20 @@
 | **Super Mario 64** | 《超级马里奥 64》的完整反编译。 | 逆向工程 | C |
 | **[VVVVVV](https://thelettervsixtim.es/)** | 知名独立平台游戏 VVVVVV 的源码。 | SDL, 自定义代码 | C++ |
 
-## Puzzle games (解谜游戏)
+## Puzzle games 益智游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **[BlockOut II](http://www.blockout.net/blockout2)** | 原版 BlockOut® DOS 游戏的免费改编版。 | SDL | C++ |
 | **Portal64** | Nintendo 64 平台上的《传送门》降级重制版 (Demake)。 | N64 SDK / 逆向工程 | C |
 
-## Racing games (赛车游戏)
+## Racing games 赛车游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **[wipEout](https://phoboslab.org/log/2023/08/rewriting-wipeout)** | 1995 年 PSX 游戏《wipEout》的重制版。 | 自定义 WebGPU 引擎 | Rust, TypeScript |
 
-## Real-Time strategies (即时战略)
+## Real-Time strategies 即时战略游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -122,7 +122,7 @@
 | **[Widelands](https://www.widelands.org)** | 一款免费、开源的实时战略游戏。 | 自定义 C++ 引擎 | C++ |
 | **[Zero-K](https://zero-k.info/)** | 具有物理弹道、智能单位和强大 UI 的 RTS 游戏。 | **SpringRTS Engine** | Lua, C++ |
 
-## Roguelikes (Roguelike 游戏)
+## Roguelike 游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -133,7 +133,7 @@
 | **[Pixel Dungeon (Original)](https://pixeldungeon.watabou.ru/)** | 具有像素艺术图形的传统 Roguelike 游戏。 | LibGDX | Java |
 | **Shattered PD** | 《Pixel Dungeon》的一个受欢迎的、增加了功能的 Fork。 | LibGDX | Java |
 
-## Role-Playing games (角色扮演游戏)
+## Role-Playing games 角色扮演游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -154,26 +154,26 @@
 | **[Ultima VII: Revisited](https://www.u7revisited.com)** | 《创世纪 VII》的替代引擎，以 3D 呈现游戏并修复各种问题。 | 自定义 C++ 引擎 | C++ |
 | **[Veloren](https://www.veloren.net/)** | 用 Rust 编写的多人体素 RPG。 | **Veloren Engine** | Rust |
 
-## Sandbox games (沙盒游戏)
+## Sandbox games 沙盒游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **Minosoft** | 一个用 Kotlin (和 Java) 从头开始编写的开源 Minecraft 客户端。 | 自定义客户端 | Kotlin, Java |
 
-## Shoot 'em up games (射击游戏)
+## Shoot 'em up games 射击游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **[SDL Sopwith](https://fragglet.github.io/sdl-sopwith)** | 经典双翼飞机射击游戏 “Sopwith” 移植到现代计算机的版本。 | SDL | C |
 
-## Sport games (体育游戏)
+## Sport games 体育游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **Open Golf** | 一个用 C 编写的跨平台迷你高尔夫游戏。 | SDL | C |
 | **Pooltool** | 一个强调真实物理的沙盒台球游戏。 | Raylib | C++ |
 
-## Third-Person games (第三人称游戏)
+## Third-Person games 第三人称游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -186,13 +186,13 @@
 | **RE3** | 《GTA III》和《GTA VC》的完整逆向源代码。 | 逆向工程 | C++ |
 | **[Tomb Engine](https://tombengine.com)** | 用于自定义《古墓丽影》冒险的开源引擎。 | **Tomb Engine** | C++ |
 
-## Tower Defense games (塔防游戏)
+## Tower Defense games 塔防游戏
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
 | **Izowave** | 你的任务是在选定的星球上尽可能多地生存波次的塔防游戏。 | **Izowave Engine** | Rust |
 
-## Turn-Based strategies (回合制战略)
+## Turn-Based strategies 回合制战略
 
 | 游戏名称 | 游戏介绍 | 游戏引擎/框架 | 主要编程语言 |
 | :--- | :--- | :--- | :--- |
@@ -207,7 +207,7 @@
 | **[Unciv](https://yairm210.itch.io/unciv)** | 《文明 V》的开源 Android/桌面重制版。 | LibGDX | Kotlin |
 | **[VCMI Project](https://vcmi.eu)** | 《英雄无敌 III》的开源引擎。 | SDL | C++ |
 
-## Other lists (其他列表)
+## Other lists 其他列表
 
   - **[Awesome Game Remakes](https://github.com/radek-sprta/awesome-game-remakes)**
   - **[Games on GitHub](https://github.com/leereilly/games)**
